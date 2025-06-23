@@ -21,9 +21,6 @@ Frontend Developer | React | TypeScript | JavaScript
 *Collection of my frontend projects, including live demos and source code.*  
 
 ---
-
-### 🛠️ Technologies
-
 ### 🛠️ Technologies
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
