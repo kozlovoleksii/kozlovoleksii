@@ -50,7 +50,6 @@ Frontend Developer | React | TypeScript | JavaScript
 ### 📬 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/oleksii-kozlov-745a18313/)
-- [GitHub](https://github.com/kozlovoleksii)
 - [Telegram](https://t.me/user_o_o)
 - [Twitter (X)](https://x.com/oleksii_kozlov)
 - **Portfolio:** [kozlovoleksii.github.io/react-portfolio](https://kozlovoleksii.github.io/react-portfolio)
