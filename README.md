@@ -16,7 +16,7 @@ Frontend Developer | React | TypeScript | JavaScript
 
 ---
 
-### 🌐 Portfolio Website — [Visit My Portfolio](https://kozlovoleksii.github.io/react-portfolio/)  
+### 🌐 Portfolio Website — [Visit My Portfolio](https://portfolio-oleksii.netlify.app/)  
 
 *Collection of my frontend projects, including live demos and source code.*  
 
